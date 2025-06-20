@@ -189,3 +189,26 @@ print(my_list)  # Output: ['s', 'u', 'k']
 my_list = ['s', 'u', 'm', 'k']
 del my_list[2]
 print(my_list)
+
+    ictinstrcutors = {"kingdavid":"dataanalysis",
+ "douglas":"cybersecurity"}
+    print(ictinstructors)
+
+    thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+  "year": 2020
+}
+print(thisdict)
+
+ictinstructors = {"kingdavid": "dataanalysis", "douglas": "cybersecurity"}
+print(ictinstructors)
+
+lentonisoks = {
+  "name" : "lentonisokariari",
+  "dept" : "chemical engineering",
+  "matricno" : "de157847m",
+  "age" : 36
+}
+print(lentonisoks)
